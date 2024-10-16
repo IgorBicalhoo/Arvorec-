@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1729115392 source:c:\users\ibnp2\documents\arvorec++\arvore\arvorebinariabusca.cpp
+	<iostream>
+	<queue>
+	<stdlib.h>
+	"ArvoreBinariaBusca.h"
+
+1729115384 c:\users\ibnp2\documents\arvorec++\arvore\arvorebinariabusca.h
+	<queue>
+
+1729115401 source:c:\users\ibnp2\documents\arvorec++\arvore\main.cpp
+	<iostream>
+	"ArvoreBinariaBusca.h"
+
